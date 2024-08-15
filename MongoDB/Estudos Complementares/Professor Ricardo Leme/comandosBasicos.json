@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Tubarão",
+        "ano": 1975,
+        "direor": "Steven Spielberg"
+    },
+    {
+        "titulo": "O Exorcista",
+        "ano": 1973,
+        "direor": "William Friedkin"
+    },
+    {
+        "titulo": "007: Sem Tempo Para Morrer",
+        "ano": 2020,
+        "direor": "Carry Fukunaga",
+        "genero": "ação"
+    }
+]
